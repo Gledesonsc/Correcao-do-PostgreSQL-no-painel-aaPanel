@@ -1,0 +1,1 @@
+# Correcao-do-PostgreSQL-no-painel-aaPanel
